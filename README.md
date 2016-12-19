@@ -1,6 +1,10 @@
 # awesome-quantized-mesh-tiles
 Awesome implementations of the quantized mesh tiles specification
 
+## Format
+
+https://cesiumjs.org/data-and-assets/terrain/formats/quantized-mesh-1.0.html
+
 ## Parsers & Generators
 
 - https://github.com/AnalyticalGraphicsInc/cesium - Cesium
