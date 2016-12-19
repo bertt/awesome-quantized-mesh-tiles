@@ -1,7 +1,7 @@
 # awesome-quantized-mesh-tiles
 Awesome implementations of the quantized mesh tiles specification
 
-### Parsers & Generators
+## Parsers & Generators
 
 - https://github.com/AnalyticalGraphicsInc/cesium - Cesium
 
