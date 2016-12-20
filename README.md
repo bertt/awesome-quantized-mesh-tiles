@@ -23,3 +23,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/geo-data/cesium-terrain-builder - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
 
 - https://github.com/geo-data/cesium-terrain-server - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models
+
+## Datasets
+
+- http://assets.agi.com/stk-terrain/v1/tilesets/world/tiles/0/0/0.terrain - World terrain dataset by Analytical Graphics, Inc. (AGI)
+
