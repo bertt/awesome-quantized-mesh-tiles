@@ -28,3 +28,4 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - http://assets.agi.com/stk-terrain/v1/tilesets/world/tiles/0/0/0.terrain - World terrain dataset by Analytical Graphics, Inc. (AGI)
 
+use with accept header: application/vnd.quantized-mesh,application/octet-stream;q=0.9
