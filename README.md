@@ -11,7 +11,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
 
-- https://github.com/bertt/awesome-quantized-mesh-tiles - Quantized-Mesh decoder (C#)
+- https://github.com/bertt/quantized-mesh-tile-cs - Quantized-Mesh decoder (C#)
 
 - https://github.com/kjartab/qmesh - qmesh (Javascript)
 
