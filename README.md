@@ -26,6 +26,10 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
 
+# Blogs
+
+- https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
+
 ## Datasets
 
 - http://assets.agi.com/stk-terrain/v1/tilesets/world/tiles/0/0/0.terrain - World terrain dataset by Analytical Graphics, Inc. (AGI)
