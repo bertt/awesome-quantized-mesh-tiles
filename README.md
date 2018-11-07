@@ -32,6 +32,9 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Datasets
 
-- http://assets.agi.com/stk-terrain/v1/tilesets/world/tiles/0/0/0.terrain - World terrain dataset by Analytical Graphics, Inc. (AGI)
+- World terrain dataset by Analytical Graphics, Inc. (AGI)
 
-use with accept header: application/vnd.quantized-mesh,application/octet-stream;q=0.9
+```
+$ curl 'https://assets.cesium.com/1/11/2148/1501.terrain?v=1.1.0' -H 'Accept: application/vnd.quantized-mesh,application/octet-stream;q=0.9,*/*;q=0.01,*/*;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJkNDhkYmU1My04ZGQxLTQzNDgtOWUzOC05NmM0ZmY3NjU4ODEiLCJpZCI6MjU5LCJhc3NldHMiOnsiMSI6eyJ0eXBlIjoiVEVSUkFJTiIsImV4dGVuc2lvbnMiOlt0cnVlLHRydWUsdHJ1ZV19fSwic3JjIjoiNzkzNTg3YTEtYTk5Yi00ZGQ2LWJiODctMGJjNDMyNmQ1ODUwIiwiaWF0IjoxNTQxNTc4OTMxLCJleHAiOjE1NDE1ODI1MzF9.zZuQxTqsnyOPG_Mzr3-ZBEN7gHEELhvB3FhmzraL6Pg' --compressed
+```
+
