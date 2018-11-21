@@ -26,6 +26,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
 
+- https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
+
 # Blogs
 
 - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
