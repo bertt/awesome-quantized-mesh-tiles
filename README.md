@@ -30,6 +30,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
 
+- https://github.com/heremaps/tin-terrain - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
+
 # Blogs
 
 - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
