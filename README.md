@@ -7,8 +7,6 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Parsers & Generators
 
-- https://github.com/AnalyticalGraphicsInc/cesium - Cesium (Javascript)
-
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
 
 - https://github.com/bertt/quantized-mesh-tile-cs - Quantized-Mesh decoder (C#)
@@ -25,6 +23,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/geo-data/cesium-terrain-server - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models
 
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
+
+- https://github.com/AnalyticalGraphicsInc/cesium - Cesium (Javascript)
 
 - https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
 
