@@ -13,6 +13,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/kjartab/qmesh - qmesh (Javascript)
 
+- https://github.com/heremaps//quantized-mesh-decoder - decoder for the Quantized Mesh format (Javascript)
+
 
 ## Applications / Command line tools
 
