@@ -21,6 +21,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
 
+- https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh - ctb-tile with Quantized Mesh support
+
 - https://github.com/heremaps/tin-terrain - tin-terrain dem2tintiles
 
 - https://github.com/geoadmin/3d-forge - Read/Write quantized-mesh tiles
@@ -42,9 +44,9 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 # Blogs
 
-- Fast Cesium terrain rendering with the new quantized-mesh output of the opensource CesiumTerrainBuilder tool - https://www.linkedin.com/pulse/fast-cesium-terrain-rendering-new-quantized-mesh-output-alvaro-huarte/
+- 2018-01-11: Fast Cesium terrain rendering with the new quantized-mesh output of the opensource CesiumTerrainBuilder tool - https://www.linkedin.com/pulse/fast-cesium-terrain-rendering-new-quantized-mesh-output-alvaro-huarte/
 
-- Visualizing Terrains with Cesium - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
+- 2016-12-08: Visualizing Terrains with Cesium - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
 
 ## Datasets
 
