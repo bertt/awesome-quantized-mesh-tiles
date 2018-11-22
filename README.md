@@ -17,7 +17,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/heremaps//quantized-mesh-decoder - decoder for the Quantized Mesh format (Javascript)
 
 
-## Quantized Mesh Tile generators
+## Tile generators
 
 - https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
 
@@ -27,10 +27,11 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/geo-data/cesium-terrain-builder - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
 
-
-## Visualisation
+## Servers
 
 - https://github.com/geo-data/cesium-terrain-server - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models
+
+## Visualisation
 
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
 
