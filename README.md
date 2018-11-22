@@ -42,11 +42,13 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
 
 
-# Blogs
+## Blogs
 
 - 2018-01-11: Fast Cesium terrain rendering with the new quantized-mesh output of the opensource CesiumTerrainBuilder tool - https://www.linkedin.com/pulse/fast-cesium-terrain-rendering-new-quantized-mesh-output-alvaro-huarte/
 
 - 2016-12-08: Visualizing Terrains with Cesium - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
+
+- 2014-10-12: Creating 3D terrains with Cesium - http://blog.mastermaps.com/2014/10/3d-terrains-with-cesium.html
 
 ## Datasets
 
