@@ -5,7 +5,8 @@ Awesome implementations of the quantized mesh tiles specification
 
 https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
-## Parsers & Generators
+
+## Encoders and decoders
 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
 
@@ -16,11 +17,18 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/heremaps//quantized-mesh-decoder - decoder for the Quantized Mesh format (Javascript)
 
 
-## Applications / Command line tools
+## Quantized Mesh Tile generators
+
+- https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
+
+- https://github.com/heremaps/tin-terrain - tin-terrain dem2tintiles
 
 - https://github.com/geoadmin/3d-forge - Read/Write quantized-mesh tiles
 
 - https://github.com/geo-data/cesium-terrain-builder - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
+
+
+## Visualisation
 
 - https://github.com/geo-data/cesium-terrain-server - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models
 
@@ -30,11 +38,12 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
 
-- https://github.com/heremaps/tin-terrain - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
 
 # Blogs
 
-- https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
+- Fast Cesium terrain rendering with the new quantized-mesh output of the opensource CesiumTerrainBuilder tool - https://www.linkedin.com/pulse/fast-cesium-terrain-rendering-new-quantized-mesh-output-alvaro-huarte/
+
+- Visualizing Terrains with Cesium - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
 
 ## Datasets
 
