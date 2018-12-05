@@ -35,6 +35,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Visualisation
 
+- Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https%3A%2F%2Fmaps.tilehosting.com%2Fdata%2Fterrain-quantized-mesh%2F9%2F536%2F391.terrain%3Fkey%3DwYrAjVu6bV6ycoXliAPl
+
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
 
 - https://github.com/AnalyticalGraphicsInc/cesium - Cesium (Javascript)
@@ -53,9 +55,9 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Datasets
 
+- Sample tile: https://maps.tilehosting.com/data/terrain-quantized-mesh/9/536/391.terrain?key=wYrAjVu6bV6ycoXliAPl
+
 - World terrain dataset by Analytical Graphics, Inc. (AGI)
 
-```
-$ curl 'https://assets.cesium.com/1/11/2148/1501.terrain?v=1.1.0' -H 'Accept: application/vnd.quantized-mesh,application/octet-stream;q=0.9,*/*;q=0.01,*/*;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJkNDhkYmU1My04ZGQxLTQzNDgtOWUzOC05NmM0ZmY3NjU4ODEiLCJpZCI6MjU5LCJhc3NldHMiOnsiMSI6eyJ0eXBlIjoiVEVSUkFJTiIsImV4dGVuc2lvbnMiOlt0cnVlLHRydWUsdHJ1ZV19fSwic3JjIjoiNzkzNTg3YTEtYTk5Yi00ZGQ2LWJiODctMGJjNDMyNmQ1ODUwIiwiaWF0IjoxNTQxNTc4OTMxLCJleHAiOjE1NDE1ODI1MzF9.zZuQxTqsnyOPG_Mzr3-ZBEN7gHEELhvB3FhmzraL6Pg' --compressed
-```
+
 
