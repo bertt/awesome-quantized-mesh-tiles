@@ -55,7 +55,11 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Datasets
 
-- Sample tile: https://maps.tilehosting.com/data/terrain-quantized-mesh/9/536/391.terrain?key=wYrAjVu6bV6ycoXliAPl
+- MapTiler
+
+Blog: https://www.maptiler.com/blog/2018/08/free-terrain-tiles-for-cesium.html
+
+Sample tile: https://maps.tilehosting.com/data/terrain-quantized-mesh/9/536/391.terrain?key=wYrAjVu6bV6ycoXliAPl
 
 - World terrain dataset by Analytical Graphics, Inc. (AGI)
 
