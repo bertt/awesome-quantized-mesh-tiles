@@ -47,6 +47,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 ## Blogs
 - 2018-11-26: Visualizing terrains with Cesium - Part II  https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
 
+- 2018-08-31: Free Terrain Tiles for Cesium https://www.maptiler.com/blog/2018/08/free-terrain-tiles-for-cesium.html
+
 - 2018-01-11: Fast Cesium terrain rendering with the new quantized-mesh output of the opensource CesiumTerrainBuilder tool - https://www.linkedin.com/pulse/fast-cesium-terrain-rendering-new-quantized-mesh-output-alvaro-huarte/
 
 - 2016-12-08: Visualizing Terrains with Cesium - https://bertt.wordpress.com/2016/12/08/visualizing-terrains-with-cesium/
