@@ -35,6 +35,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Visualisation
 
+- Mount Ventoux on SketchFab based on MapTiler Quantized Mesh Tiles https://sketchfab.com/3d-models/ventoux-afb8aada3971440f99d3ad4361a059d3
+
 - Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https%3A%2F%2Fmaps.tilehosting.com%2Fdata%2Fterrain-quantized-mesh%2F9%2F536%2F391.terrain%3Fkey%3DwYrAjVu6bV6ycoXliAPl
 
 - http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
