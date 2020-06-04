@@ -14,8 +14,9 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/kjartab/qmesh - qmesh (Javascript)
 
-- https://github.com/heremaps//quantized-mesh-decoder - decoder for the Quantized Mesh format (Javascript)
+- https://github.com/heremaps/quantized-mesh-decoder - decoder for the Quantized Mesh format (Javascript)
 
+- https://github.com/kylebarron/quantized-mesh-encoder - fast Quantized Mesh encoder (Python)
 
 ## Tile generators
 
