@@ -24,11 +24,12 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh - ctb-tile with Quantized Mesh support
 
-- https://github.com/heremaps/tin-terrain - tin-terrain dem2tintiles
-
 - https://github.com/geoadmin/3d-forge - Read/Write quantized-mesh tiles
 
 - https://github.com/geo-data/cesium-terrain-builder - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
+- 
+- https://github.com/heremaps/tin-terrain - tin-terrain dem2tintiles (deprecated Mar 8, 2023)
+
 
 ## Servers
 
