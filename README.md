@@ -5,8 +5,7 @@ Awesome implementations of the quantized mesh tiles specification
 
 https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
-
-## Encoders and decoders
+## Encoders and decoders (Libraries)
 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
 
@@ -18,7 +17,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://github.com/kylebarron/quantized-mesh-encoder - fast Quantized Mesh encoder (Python)
 
-## Tile generators
+## Tile generators (Tooling)
 
 - https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
 
@@ -27,9 +26,6 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/geoadmin/3d-forge - Read/Write quantized-mesh tiles
 
 - https://github.com/geo-data/cesium-terrain-builder - A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library
-- 
-- https://github.com/heremaps/tin-terrain - tin-terrain dem2tintiles (deprecated Mar 8, 2023)
-
 
 ## Servers
 
@@ -41,12 +37,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https%3A%2F%2Fmaps.tilehosting.com%2Fdata%2Fterrain-quantized-mesh%2F9%2F536%2F391.terrain%3Fkey%3DwYrAjVu6bV6ycoXliAPl
 
-- http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html - Cesium Sandcastle
-
-- https://github.com/AnalyticalGraphicsInc/cesium - Cesium (Javascript)
-
-- https://github.com/heremaps/quantized-mesh-viewer - Render custom quantized mesh tiles in Cesium.js and debug individual tiles using THREE.js renderer.
-
+- https://github.com/AnalyticalGraphicsInc/cesium - CesiumJS (Javascript)
 
 ## Blogs
 - 2018-11-26: Visualizing terrains with Cesium - Part II  https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
