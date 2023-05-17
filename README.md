@@ -37,7 +37,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ![image](https://github.com/bertt/awesome-quantized-mesh-tiles/assets/538812/f4d81730-fa94-42cb-8681-2de688b973c6)
 
-- Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https%3A%2F%2Fmaps.tilehosting.com%2Fdata%2Fterrain-quantized-mesh%2F9%2F536%2F391.terrain%3Fkey%3DwYrAjVu6bV6ycoXliAPl
+- Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https://bertt.github.io/cesium_terrain/texel/ahn4/tiles/19/538140/416814.terrain?v=1.1.0
 
 - https://github.com/AnalyticalGraphicsInc/cesium - CesiumJS (Javascript)
 
