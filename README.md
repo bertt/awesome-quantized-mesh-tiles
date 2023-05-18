@@ -1,7 +1,7 @@
 # awesome-quantized-mesh-tiles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome implementations of the quantized mesh tiles specification (terrain tileset)
 
-## Format
+## Specification
 
 https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
@@ -33,17 +33,16 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Visualisation
 
-- Mount Ventoux on SketchFab based on MapTiler Quantized Mesh Tiles https://sketchfab.com/3d-models/ventoux-afb8aada3971440f99d3ad4361a059d3
-
-![image](https://github.com/bertt/awesome-quantized-mesh-tiles/assets/538812/f4d81730-fa94-42cb-8681-2de688b973c6)
-
 - Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https://bertt.github.io/cesium_terrain/texel/ahn4/tiles/19/538140/416814.terrain?v=1.1.0
 
 ![image](https://github.com/bertt/awesome-quantized-mesh-tiles/assets/538812/725d9abf-cc55-4e97-9379-0f95d76a0883)
 
-- https://github.com/AnalyticalGraphicsInc/cesium - CesiumJS (Javascript)
+- https://cesium.com/ - Terrain visualization in Cesium (Javascript, Unity3D, Unreal, Omniverse)
+
+- https://github.com/timoore/vsgCs - Client for Vulkan Scene Graph (VSG) 
 
 ## Blogs
+
 - 2018-11-26: Visualizing terrains with Cesium - Part II  https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
 
 - 2018-08-31: Free Terrain Tiles for Cesium https://www.maptiler.com/blog/2018/08/free-terrain-tiles-for-cesium.html
@@ -67,6 +66,11 @@ Sample tile: https://maps.tilehosting.com/data/terrain-quantized-mesh/9/536/391.
 - - https://bertt.github.io/cesium_terrain/texel/ahn4/ - Texel
 
 <img width="1008" alt="Screenshot 2023-05-17 at 19 18 48" src="https://github.com/bertt/awesome-quantized-mesh-tiles/assets/538812/e5b18361-7618-4699-b183-a58adfcbaad1">
+
+- Mount Ventoux on SketchFab based on MapTiler Quantized Mesh Tiles https://sketchfab.com/3d-models/ventoux-afb8aada3971440f99d3ad4361a059d3
+
+![image](https://github.com/bertt/awesome-quantized-mesh-tiles/assets/538812/f4d81730-fa94-42cb-8681-2de688b973c6)
+
 
 
 
