@@ -35,7 +35,9 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://cesium.com/ - Terrain visualization in CesiumJS (https://github.com/CesiumGS/cesium) and Cesium Native (https://github.com/CesiumGS/cesium-native) for Unity3D, Unreal, Omniverse and O3DE.
 
-- https://github.com/timoore/vsgCs - Cesium native based client for Vulkan Scene Graph (VSG) 
+- https://github.com/timoore/vsgCs - Cesium native based client for Vulkan Scene Graph (VSG)
+
+- Loaders.gl https://github.com/visgl/loaders.gl/pull/729 
 
 - Quantized mesh tile viewer - https://quantized-mesh-tile.readthedocs.io/en/latest/viewer.html?z=9&x=536&y=391&tileUrl=https://bertt.github.io/cesium_terrain/texel/ahn4/tiles/19/538140/416814.terrain?v=1.1.0
 
