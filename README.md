@@ -45,6 +45,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Blogs
 
+- 2023-07-27: Creating 3D terrain from Lidar data - https://bertt.wordpress.com/2023/07/27/create-3d-terrain-from-lidar-data/
+
 - 2018-11-26: Visualizing terrains with Cesium - Part II  https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
 
 - 2018-08-31: Free Terrain Tiles for Cesium https://www.maptiler.com/blog/2018/08/free-terrain-tiles-for-cesium.html
