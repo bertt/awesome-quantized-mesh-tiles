@@ -7,8 +7,6 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Encoders and decoders (Libraries)
 
-- https://github.com/Geodan/terrain - Docker images for creating Cesium Quantized mesh terrain tiles
-- 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
 
 - https://github.com/bertt/quantized-mesh-tile-cs - Quantized-Mesh decoder (C#)
@@ -20,6 +18,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 - https://github.com/kylebarron/quantized-mesh-encoder - fast Quantized Mesh encoder (Python)
 
 ## Tile generators (Tooling)
+
+- https://github.com/Geodan/terrain - Docker images for creating Cesium Quantized mesh terrain tiles
 
 - https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
 
