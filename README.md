@@ -5,6 +5,12 @@ Awesome implementations of the quantized mesh tiles specification (terrain tiles
 
 https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
+## Tilesets
+
+- Dutch AHN4 level 0-15 https://3d.kadaster.nl/dtm/ahn4/layer.json
+
+- Corsica France level 0 - 15 https://storage.googleapis.com/ahp-research/maquette/corsica_5m/tiles2/layer.json
+
 ## Encoders and decoders (Libraries)
 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
