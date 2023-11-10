@@ -7,7 +7,7 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Tilesets
 
-- Dutch AHN4 level 0-15 https://3d.kadaster.nl/dtm/ahn4/layer.json
+- Dutch AHN4 level 0-15 https://api.pdok.nl/kadaster/3d-basisvoorziening/ogc/v1_0/collections/digitaalterreinmodel/quantized-mesh. See [metadata](https://api.pdok.nl/kadaster/3d-basisvoorziening/ogc/v1_0/collections/digitaalterreinmodel) for details. 
 
 - Corsica France level 0 - 15 https://storage.googleapis.com/ahp-research/maquette/corsica_5m/tiles2/layer.json
 
