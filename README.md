@@ -11,6 +11,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - Corsica France level 0 - 15 https://storage.googleapis.com/ahp-research/maquette/corsica_5m/tiles2/layer.json
 
+- Switzerland level 0-18 https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/layer.json. See the [documentation](https://api3.geo.admin.ch/services/sdiservices.html#terrain-service) for details.
+
 ## Encoders and decoders (Libraries)
 
 - https://github.com/loicgasser/quantized-mesh-tile - Quantized-Mesh encoder/decoder and topology builder (Python)
