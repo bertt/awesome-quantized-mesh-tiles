@@ -39,6 +39,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Servers
 
+- https://github.com/sogelink-research/ctod Cesium Terrain on Demand. Service for serving quantized mesh terrain tiles based on Cloud Optimized GeoTIFF (COG).
+
 - https://github.com/geo-data/cesium-terrain-server - A basic server for serving up filesystem based tilesets representing Cesium.js terrain models
 
 ## Visualisation
