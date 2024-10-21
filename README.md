@@ -47,6 +47,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 - https://cesium.com/ - Terrain visualization in CesiumJS (https://github.com/CesiumGS/cesium) and Cesium Native (https://github.com/CesiumGS/cesium-native) for Unity3D, Unreal, Omniverse and O3DE.
 
+- [QGIS](https://qgis.org/) - Support for quantized mesh terrain in 2D and 3D views since QGIS 3.40. Use "Scenes" item in Browser dock widget or "Scene" tab in the Data Source Manager window to define a connection to a quantized mesh dataset.
+
 - https://github.com/timoore/vsgCs - Cesium native based client for Vulkan Scene Graph (VSG)
 
 - Deck.gl - Loaders.gl https://github.com/visgl/loaders.gl/pull/729 
