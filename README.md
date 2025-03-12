@@ -27,6 +27,8 @@ https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
 ## Tile generators (Tooling)
 
+- https://github.com/Gaia3D/mago-3d-terrainer - mago-3d-terrainer
+
 - https://github.com/Geodan/terrain - Docker images for creating Cesium Quantized mesh terrain tiles
 
 - https://github.com/tum-gis/cesium-terrain-builder-docker - Dockerfile for the geo-data/cesium-terrain-builder app with quantized mesh support.
